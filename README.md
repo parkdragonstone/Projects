@@ -41,5 +41,5 @@ PoseEstimation (SmartPhone), Vicon (Marker System), Theia (Markerless System) �
 # Y-Balance
 PoseEstimation (SmartPhone), Vicon (Marker System), Theia (Markerless System) 각각에서 측정된 Y-balance의 각도 비교
 <video controls width="500">
-  <source src="https://github.com/parkdragonstone/Projects/blob/master/Y-Balance/Videos/animation.mp4" type="video/mp4">
+  <source src="Y-Balance/Videos/animation.mp4" type="video/mp4">
 </video>
