@@ -9,7 +9,6 @@
 - 종속 변인 : 중앙 주파수, 적분근전도 등
 - 통계 : Repeated Measures ANOVA
 - 결과 : [ipynb File](<Bike (EMG)/Python/resampling + sync + filtering + onset.ipynb>)
-
 <br></br>
 
 # Fitness
@@ -23,8 +22,8 @@
 - 종속 변인 : COP 움직인 거리, 속도, 면적
 - 통계 : Paired-T test, SPM
 - 결과 : [Landing](<Insole/Landing Data_procssing.ipynb>), [Stability](<Insole/Stablility Data_processing.ipynb>)
-
 <br></br>
+
 # ShoulderROM
 PoseEstimation (SmartPhone), Vicon (Marker System), Theia (Markerless System) 각각에서 측정된 어꺠 관절 각도의 비교
 <br>
@@ -37,7 +36,6 @@ PoseEstimation (SmartPhone), Vicon (Marker System), Theia (Markerless System) �
 <video controls width="500">
   <source src="https://raw.githubusercontent.com/parkdragonstone/Projects/master/ShoulderROM/Videos/sample.mp4" type="video/mp4">
 </video>
-
 <br></br>
 
 # Y-Balance
