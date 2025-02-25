@@ -24,6 +24,11 @@
 - 결과 : [Landing](<Insole/Landing Data_procssing.ipynb>), [Stability](<Insole/Stablility Data_processing.ipynb>)
 <br></br>
 
+# Shoe Clustering
+여러 신발의 기계 테스트 결과를 PCA와 Kmeans 를 이용하여 군집화를 하였음.
+![alt text](<Shoe Clustering/Images/1.png>) ![alt text](<Shoe Clustering/Images/2.png>) ![alt text](<Shoe Clustering/Images/3.png>) ![alt text](<Shoe Clustering/Images/4.png>)
+<br></br>
+
 # ShoulderROM
 PoseEstimation (SmartPhone), Vicon (Marker System), Theia (Markerless System) 각각에서 측정된 어꺠 관절 각도의 비교
 <br>
