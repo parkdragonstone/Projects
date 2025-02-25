@@ -33,6 +33,7 @@ PoseEstimation (SmartPhone), Vicon (Marker System), Theia (Markerless System) �
 - Theia 에서 제공한 Transformation Matrix 데이터를 이용한 관절 각도 계산
 - Vicon의 마커 데이터를 2D 상에서 계산
 </br>
+
 ![alt text](ShoulderROM/Videos/sample.gif)
 <br></br>
 
